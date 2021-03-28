@@ -1,9 +1,9 @@
 class Student
 {
-public int IDnumber;
-public int hours;
-public int points;
-public static int lastStudentID;
+private int IDnumber;
+private int hours;
+private int points;
+private static int lastStudentID;
  
 public void setIDnumber()
 {
